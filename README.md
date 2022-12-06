@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/ahmetcoskunkizilkaya" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="20" alt="LinkedIn Badge" /></a>
   <a href="mailto:ahmet16ck@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
   <a href="https://app.patika.dev/ahmetk3436" target="blank"><img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="20" alt="Patika Badge"/></a>
+   <a href="showtech (Ahmet)#1543" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20" alt="Patika Badge"/></a>
 </div>
 
 ## 👩‍💻 &nbsp;Tech Skills
@@ -18,10 +19,13 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Kotlin](https://repository-images.githubusercontent.com/3432266/7e79bf80-7aa6-11eb-9cbd-d7bda7eaf1aa)&nbsp;
-![Flutter](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)&nbsp;
-![GO](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
-![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
 ## 💻 &nbsp;Tools
 <p>
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30"/> </a> &nbsp;
