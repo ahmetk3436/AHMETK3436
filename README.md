@@ -31,10 +31,7 @@
 ## 🔥 &nbsp;My Stats 
 
 <p >
-    <a href="https://github.com/ahmetk3436" target="_blank">
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ahmetk3436&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetk3436&layout=compact&theme=vision-friendly-dark"/>
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetk3436&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 
 ## 🐍 &nbsp;Snake eating my contribution graph
