@@ -32,7 +32,7 @@
 
 <p >
     <a href="https://github.com/ahmetk3436" target="_blank">
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=nurgulsezgin&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ahmetk3436&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
         <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetk3436&layout=compact&theme=vision-friendly-dark"/>
     </a>
 </p>
