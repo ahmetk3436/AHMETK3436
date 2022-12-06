@@ -18,7 +18,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
+![Kotlin](https://repository-images.githubusercontent.com/3432266/7e79bf80-7aa6-11eb-9cbd-d7bda7eaf1aa)&nbsp;
+![Flutter](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)&nbsp;
+![GO](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
+![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ## 💻 &nbsp;Tools
 <p>
     <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30"/> </a> &nbsp;
