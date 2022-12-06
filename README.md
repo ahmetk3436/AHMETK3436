@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Tapestry&size=25&duration=4000&background=1FE6C300&lines=Hello%2C+I'm+Nurg%C3%BCl..;Merhaba%2C+Ben+NAhmet.." width="300" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Tapestry&size=25&duration=4000&background=1FE6C300&lines=Hello%2C+I'm+Ahmet..;Merhaba%2C+Ben+NAhmet.." width="300" /> 
   <!-- (https://git.io/typing-svg) -->
 </p>
 
@@ -9,8 +9,8 @@
 </div>
 <div id="contact" align="center">
   <a href="https://www.linkedin.com/in/ahmetcoskunkizilkaya" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="20" alt="LinkedIn Badge" /></a>
-  <a href="mailto:nurgul_sezgin@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
-  <a href="https://app.patika.dev/rosalie" target="blank"><img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="20" alt="Patika Badge"/></a>
+  <a href="mailto:ahmet16ck@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
+  <a href="https://app.patika.dev/ahmetk3436" target="blank"><img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="20" alt="Patika Badge"/></a>
 </div>
 
 ## 👩‍💻 &nbsp;Tech Skills
