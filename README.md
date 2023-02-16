@@ -16,10 +16,8 @@
 
 ## 👩‍💻 &nbsp;Tech Skills
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
