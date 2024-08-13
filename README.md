@@ -3,34 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ahmet's Personal Site</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f4f4f4;
-        }
-        .center {
-            text-align: center;
-        }
-        #header img, #header p {
-            display: inline-block;
-            margin: 10px;
-        }
-        #contact a {
-            margin: 5px;
-            display: inline-block;
-        }
-        #contact img {
-            vertical-align: middle;
-        }
-        .tech-skills, .tools {
-            margin: 20px 0;
-        }
-        #stats {
-            margin: 20px 0;
-        }
-    </style>
 </head>
 <body>
 
