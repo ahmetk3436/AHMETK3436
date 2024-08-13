@@ -19,7 +19,7 @@
 
 <div id="contact" class="center">
     <a href="https://www.linkedin.com/in/ahmetcoskunkizilkaya" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="20" alt="LinkedIn Badge" /></a>
-    <a href="mailto:ahmet16ck@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
+    <a href="mailto:ahmetcoskunkizilkaya@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
     <a href="https://app.patika.dev/ahmetk3436" target="_blank"><img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="20" alt="Patika Badge"/></a>
     <a href="showtech (Ahmet)#1543" target="blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="20" alt="Discord Badge"/></a>
 </div>
