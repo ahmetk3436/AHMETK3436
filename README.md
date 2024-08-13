@@ -1,3 +1,5 @@
+<a href="Ahmet-CV.docx" download>Download my CV</a>
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Tapestry&size=25&duration=4000&background=1FE6C300&lines=Hello%2C+I'm+Ahmet..;Merhaba%2C+Ben+Ahmet.." width="300" /> 
